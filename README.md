@@ -4,8 +4,7 @@ A simple react application to showcase a registration form with field validation
 ## Installation
 To get started, open terminal and do-what-i-say
 ```bash
-$ git clone https://github.com/smava/Lakshman-Manoj-Kumar-
-$ cd <my-project-name>
+$ git clone https://github.com/dreamweiver/react-redux_registration_form
 $ npm install
 ```
 

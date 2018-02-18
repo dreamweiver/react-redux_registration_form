@@ -1,4 +1,4 @@
-## Smava Coding Challenge - Registration form using React-redux
+## Registration form using React-redux
 A simple react application to showcase a registration form with field validation.
 
 ## Installation
